@@ -1,4 +1,12 @@
 <?php
+
+/**
+ * @snippet       WordPress: Página 404 - redirige automaticamente al inicio
+ * @author        Oscar Abad Folgueira
+ * @author_url    https://www.oscarabadfolgueira.com
+ * @snippet_url   https://www.aprendeinformaticaconmigo.com/desarrollo/wordpress/wordpress-redireccionar-todas-las-pagina-no-encontrada-a-la-pagina-de-inicio/
+ */
+
 /**
  * Página 404 - redirige automaticamente al inicio
  * 
